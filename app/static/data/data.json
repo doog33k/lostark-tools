@@ -1,0 +1,461 @@
+{
+  "data": 
+[
+  {
+    "advanced class": "BERSERKER",
+    "class" : "warrior",
+    "class engraving": "Berserker's Technique" ,
+    "stats": [
+      "Spec:75",
+      "Crit:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Awakening (Lv3)",
+      "Spirit Absorption (Lv3)",
+      "Raid Captain (Lv3)",
+      "Cursed Doll (Lv3)"
+    ]
+
+  },
+  {
+    "advanced class": "BERSERKER",
+    "class" : "warrior",
+    "class engraving": "Mayhem" ,
+    "stats": [
+      "Crit:60",
+      "Swift:40"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Master's Potential (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Keen Blunt Weapon (Lv3)"
+    ]     
+  },    
+
+  {
+    "advanced class": "GUNLANCER",
+    "class" : "warrior",
+    "class engraving": "Combat Readiness" ,
+    "stats": [
+      "Spec:75",
+      "Crit:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Awakening (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Spirit Absorption (Lv3)",
+      "Master Brawler (Lv3)",
+      "Master Brawler (Lv3)"
+    ]        
+  },  
+  {
+    "advanced class": "GUNLANCER",
+    "class" : "warrior",
+    "class engraving": "Solo Knight" ,
+    "stats": [
+      "Crit:75",
+      "Swift:25"
+    ],
+    "engraving": [
+      "Super Charge (Lv3)",
+      "Grudge (Lv3)",
+      "Master Brawler (Lv3)",
+      "Spirit Absorption (Lv3)",
+      "Master Brawler (Lv3)",
+      "Cursed Doll (Lv3)"
+    ]     
+  },  
+  {
+    "advanced class": "PALADIN",
+    "class" : "warrior",
+    "class engraving": "Blessed Aura" ,
+    "stats": [
+      "Spec:75",
+      "Swift:25"
+    ],
+    "engraving": [
+      "Spirit Absorption (Lv3)",
+      "Awakening (Lv3)",
+      "Specialist (Lv3)",
+      "Heavy Armor (Lv3)"
+    ]     
+  },    
+  {
+    "advanced class": "PALADIN",
+    "class" : "warrior",
+    "class engraving": "Judgment" ,
+    "stats": [
+      "Crit:33",
+      "Spec:33",
+      "Swift:33"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Raid Captain (Lv3)",
+      "Adrenaline (Lv3)",
+      "Awakening (Lv3)"
+    ]     
+  },    
+  {
+    "advanced class": "SCRAPPER",
+    "class" : "Martial Artist",
+    "class engraving": "Shock Training" ,
+    "stats": [
+      "Crit:75",
+      "Spec:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Spirit Absorption (Lv3)",
+      "Adrenaline (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Cursed Doll (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "SCRAPPER",
+    "class" : "Martial Artist",
+    "class engraving": "Taijutsu" ,
+    "stats": [
+      "Crit:75",
+      "Spec:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Adrenaline (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Master of Ambush (Lv3)"
+
+    ]         
+  },
+  {
+    "advanced class": "SOULFIST",
+    "class" : "Martial Artist",    
+    "class engraving": "Robust Spirit" ,
+    "stats": [
+      "Spec:75",
+      "Crit:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Awakening (Lv3)",
+      "Keen Blunt Weapon (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "SOULFIST",
+    "class" : "Martial Artist",
+    "class engraving": "Energy Overflow" ,
+    "stats": [
+      "Crit:75",
+      "Swift:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Awakening (Lv3)",
+      "Keen Blunt Weapon (Lv3)"
+    ]     
+  },  
+  {
+    "advanced class": "WARDANCER",
+    "class" : "Martial Artist",
+    "class engraving": "First Intention" ,
+    "stats": [
+      "Swift:50",
+      "Crit:50"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Keen Blunt Weapon (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "WARDANCER",
+    "class" : "Martial Artist",
+    "class engraving": "Esoteric Skill Enhancement" ,
+    "stats": [
+      "Swift:70",
+      "Crit:30"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Keen Blunt Weapon (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "STRIKER",
+    "class" : "Martial Artist",
+    "class engraving": "DeathBlow" ,
+    "stats": [
+      "Spec:75",
+      "Crit:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Spirit Absorption (Lv3)",
+      "Keen Blunt Weapon (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "STRIKER",
+    "class" : "Martial Artist",
+    "class engraving": "Esoteric Flurry" ,
+    "stats": [
+      "Crit:33",
+      "Swift:33",
+      "Swift:33"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Keen Blunt Weapon (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "ARTILLERIST",
+    "class" : "Gunner",
+    "class engraving": "Firepower Enhancement" ,
+    "stats": [
+      "Crit:75",
+      "Swift:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Awakening (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "ARTILLERIST",
+    "class" : "Gunner",
+    "class engraving": "Barrage" ,
+    "stats": [
+      "Crit:75",
+      "Swift:25"
+    ],
+    "engraving": [
+
+    ]     
+  },
+  {
+    "advanced class": "DEADEYE",
+    "class" : "Gunner",
+    "class engraving": "Enhanced Weapon" ,
+    "stats": [
+      "Crit:75",
+      "Spec:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Spirit absorption (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "DEADEYE",
+    "class" : "Gunner",
+    "class engraving": "Pistoleer" ,
+    "stats": [
+      "Crit:75",
+      "Spec:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Spirit absorption (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "GUNSLINGER",
+    "class" : "Gunner",
+    "class engraving": "Time To Hunt" ,
+    "stats": [
+      "Crit:75",
+      "Spec:25"
+    ],
+    "engraving": [
+      "Peacemaker lv. 1",
+      "Adrenaline (Lv3)",
+      "Cursed Doll ",
+      "Keen Blunt Weapon (Lv3)"      
+    ]     
+  },
+  {
+    "advanced class": "GUNSLINGER",
+    "class" : "Gunner",
+    "class engraving": "Peacemaker (lv.1)" ,
+    "stats": [
+      "Crit:75",
+      "Spec:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Adrenaline (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Master of Strinkes (In a Tight Spot)"
+    ]     
+  },
+  {
+    "advanced class": "SHARPSHOOTER",
+    "class" : "Gunner",
+    "class engraving": "Death Strike" ,
+    "stats": [
+      "Crit:75",
+      "Spec:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Awakening (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "SHARPSHOOTER",
+    "class" : "Gunner",
+    "class engraving": "Loyal Companion" ,
+    "stats": [
+      "Crit:75",
+      "Swift:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Raid Captain (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)"      
+    ]     
+  },
+  {
+    "advanced class": "BARD",
+    "class" : "Mage",
+    "class engraving": "Desperate Salvation" ,
+    "stats": [
+      "Spec:75",
+      "Swift:25"
+    ],
+    "engraving": [
+      "Spirit Absorption (Lv3)",
+      "Awakening (Lv3)",
+      "Heavy Armor (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "BARD",
+    "class" : "Mage",
+    "class engraving": "True Courage" ,
+    "stats": [
+      "Crit:75",
+      "Swift:25"
+    ],
+    "engraving": [
+
+    ]     
+  },
+  {
+    "advanced class": "SORCERESS",
+    "class" : "Mage",
+    "class engraving": "Ignition" ,
+    "stats": [
+      "Spec:75",
+      "Crit:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Fast (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Sharp Dagger (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "SORCERESS",
+    "class" : "Mage",
+    "class engraving": "Reflux" ,
+    "stats": [
+      "Swift:75",
+      "Crit:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Fast (Lv3)",
+      "Massacre (Lv3)",
+      "Sharp Dagger (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "DEATHBLADE",
+    "class" : "Assassin",
+    "class engraving": "Remaining Energy" ,
+    "stats": [
+      "Spec:75",
+      "Crit:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Super Charge (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Adrenaline (Lv3)"
+    ]     
+  },
+  {
+    "advanced class": "DEATHBLADE",
+    "class" : "Assassin",
+    "class engraving": "Burst" ,
+    "stats": [
+      "Spec:75",
+      "Crit:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Adrenaline (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Panic (Lv1)"
+    ]     
+  },
+  {
+    "advanced class": "SHADOWHUNTER",
+    "class" : "Assassin",
+    "class engraving": "Demonic Inpulse (lv3)" ,
+    "stats": [
+      "Spec:75",
+      "Crit:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Spirit Absoption (Lv3)",
+      "Raid Captain (Lv3)",      
+      "Adrenaline (Lv1)"
+    ]     
+  },
+  {
+    "advanced class": "SHADOWHUNTER",
+    "class" : "Assassin",
+    "class engraving": "Perfect Supression (Lv1)" ,
+    "stats": [
+      "Crit:75",
+      "Swift:25"
+    ],
+    "engraving": [
+      "Grudge (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Master of Ambush (Lv3)"      
+    ]     
+  }
+  ]
+}

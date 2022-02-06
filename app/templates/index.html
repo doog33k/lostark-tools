@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" 
+        content="width=device-width,
+                 initial-scale=1,
+                 shrink-to-fit=no">
+  
+  
+  <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js></script>
+  <script src=https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/js/jquery.dataTables.min.js></script>
+  <script src=https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/js/dataTables.bootstrap4.min.js></script>
+  
+  <link href=https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css rel=stylesheet>
+  <link href=https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/css/dataTables.bootstrap4.min.css rel=stylesheet>
+  <link href=https://cdn.datatables.net/1.11.4/css/jquery.dataTables.min.css rel=stylesheet>
+  <style>
+    .smashinglogo {
+      width:100%;
+      background-image: url("{{url_for('static', filename='channels4_profile.jpg')}}");
+      background-repeat: no-repeat; 
+      background-attachment: fixed; 
+      background-position: center;
+      background-size:auto;
+    }
+  </style>
+<div class=container>
+  <h1>Lost Ark Class Engraving Priorities</h1>
+  <div class="smashinglogo" id="welcomeimg" data-type="sprite" data-offsetY="100" data-Xposition="50%" data-speed="-2">
+  <table id="example" class="display" style="width: 100%;opacity: 0.90;">
+    <thead>
+        <tr>
+            <th>class</th>
+            <th>advanced class</th>
+            <th>class engraving</th>
+            <th>engraving</th>
+            <th>stats</th>
+        </tr>
+    </thead>
+   
+</table>
+</div>
+</div>
+
+
+<script type="text/javascript">
+  function arrayToHtmlLi(data) {
+  
+    var slides = data
+    var str = '<ul>'
+
+    slides.forEach(function(slide) {
+      str += '<li>'+ slide + '</li>';
+    }); 
+
+    str += '</ul>';
+              
+    return str;
+  }
+    
+  $(document).ready(function() {
+    //console.log("ready")
+    $('#example').DataTable( {
+        "ajax": "../data/data.json",
+        "pageLength": 10,
+        "columnDefs": [
+          { targets: 3,
+            render: function(data) {
+              console.log(data)
+             
+              return arrayToHtmlLi(data);
+            }
+          } ,
+          { targets: 4,
+            render: function(data) {
+              console.log(data)
+             
+              return arrayToHtmlLi(data);
+            }
+          } ,            
+        ],
+        "columns": [
+            { "data": "class" },
+            { "data": "advanced class" },
+            { "data": "class engraving" },
+            { "data": "engraving" },
+            { "data": "stats" }            
+        ]
+    } );
+    //console.log("go")
+  } ); 
+
+</script>
+
+</body>
+</html>
