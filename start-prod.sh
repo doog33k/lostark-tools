@@ -1,10 +1,8 @@
 #!/bin/bash
 app="lostark.engraving"
-<<<<<<< HEAD
-docker build -t ${app} -f Dockerfile-prod .
-=======
+sudo docker rm -f ${app}
+sudo docker rmi -f ${app}
 docker build -t ${app} -f Dockerfile .
->>>>>>> 7dd5a3f (prod files)
 docker run -d -p 6663:80 \
   --restart unless-stopped \
   --name=${app} \
