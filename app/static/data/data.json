@@ -257,14 +257,22 @@
       "Speciality: 75%",
       "Critical: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
+    ],
     "maxroll_engraving": [
       "Awakening (Lv3)",
       "Grudge (Lv3)",
       "Cursed Doll (Lv3)",
       "Adrenaline (Lv1)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",      
+      "Awakening (Lv3)",
+      "Cursed Doll (Lv3)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/robust-spirit-soulfist-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/soulfist-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/soulfist-pvp-guide",
@@ -280,14 +288,22 @@
       "Swiftness: 75%",
       "Critical: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Swiftness: 75%",
+      "Critical: 25%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Adrenaline (Lv3)",
       "Keen Blunt Weapon (Lv3)",
       "Cursed Doll (Lv3)"    
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Raid Captain (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)"    
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/energy-overflow-soulfist-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/soulfist-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/soulfist-pvp-guide",
@@ -303,14 +319,23 @@
       "Swiftness: 75%",
       "Critical: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Swiftness: 75%",
+      "Critical: 25%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Cursed Doll (Lv3)",
       "Keen Blunt Weapon (Lv3)",
       "Adrenaline (Lv1)"
     ],
-    "skorp_engraving": [],
+    
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Raid Captain (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/first-intention-wardancer-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/wardancer-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/wardancer-pvp-guide",
@@ -323,17 +348,25 @@
     "class" : "Martial Artist",
     "class engraving": "Esoteric Skill Enhancement (Lv1)" ,
     "maxroll_stats": [
-      "Swiftness: 70%",
-      "Speciality: 30%"
+      "Swiftness: 75%",
+      "Speciality: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Swiftness: 75%",
+      "Critical: 25%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Cursed Doll (Lv3)",
       "Keen Blunt Weapon (Lv3)",
       "Adrenaline (Lv3)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Raid Captain (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/esoteric-skill-enhancement-wardancer-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/wardancer-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/wardancer-pvp-guide",
@@ -349,14 +382,22 @@
       "Speciality: 75%",
       "Critical: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Master of Ambush (Lv3)",
       "Cursed Doll(Lv3)",
       "Adrenaline (Lv1)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Spirit Absoption (Lv3)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/death-blow-striker-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/striker-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/striker-pvp-guide",
@@ -396,14 +437,22 @@
       "Critical: 75%",
       "Swiftness: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Critical: 50%",
+      "Swiftness: 50%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Keen Blunt Weapon (Lv3)",
       "Cursed Doll (Lv3)",
       "Adrenaline (Lv1)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Adrenaline (Lv1)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/firepower-enhancement-artillerist-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/artillerist-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/artillerist-pvp-guide",
@@ -414,13 +463,20 @@
     "advanced class": "ARTILLERIST",
     "class" : "Gunner",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20artillerist.jpg",
-    "class engraving": "Barrage" ,
+    "class engraving": "Barrage (Lv3)" ,
     "maxroll_stats": [
     ],
-    "skorp_stats": [],
+    "skorp_stats": [  
+      "Speciality: 75%",
+      "Swiftness: 25%"],
     "maxroll_engraving": [
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Adrenaline (Lv1)"
+    ],
     "raid": "",
     "chaos": "",
     "pvp": "",
@@ -436,14 +492,22 @@
       "Speciality: 75%",
       "Critical: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
+    ],
     "maxroll_engraving": [
       "Master of Ambush (Lv3)",
       "Grudge (Lv3)",
       "Adrenaline (Lv3)",
       "Cursed Doll (Lv3)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Cursed Doll /Spirit Absorption (Lv3) "
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/enhanced-weapon-deadeye-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/deadeye-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/deadeye-pvp-guide",
@@ -454,15 +518,22 @@
     "advanced class": "DEADEYE",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20deadeye.jpg",
     "class" : "Gunner",
-    "class engraving": "Pistoleer" ,
+    "class engraving": "Pistoleer (Lv3)" ,
     "maxroll_stats": [
-
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Swiftness: 25%"
+    ],
     "maxroll_engraving": [
 
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Adrenaline (Lv3)",
+      "Sharp Dagger (Lv3)"
+    ],
     "raid": "",
     "chaos": "",
     "pvp": "",
@@ -472,19 +543,28 @@
     "advanced class": "GUNSLINGER",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20gunslinger.jpg",
     "class" : "Gunner",
-    "class engraving": "Time To Hunt (lv3)" ,
+    "class engraving": "Time To Hunt (lv1)" ,
     "maxroll_stats": [
       "Swiftness: 75%",
       "Speciality: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Swiftness: 60%",
+      "Speciality: 20%",
+      "Critical: 20%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Keen Blunt Weapon (Lv3)",      
       "Adrenaline (Lv3)",
-      "Peacemaker lv. 1"
+      "Peacemaker (Lv1)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",    
+      "Cursed Doll (Lv3)",  
+      "Peacemaker (Lv1)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/time-to-hunt-gunslinger-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/gunslinger-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/gunslinger-pvp-guide",
@@ -495,19 +575,28 @@
     "advanced class": "GUNSLINGER",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20gunslinger.jpg",
     "class" : "Gunner",
-    "class engraving": "Peacemaker (lv.1)" ,
+    "class engraving": "Peacemaker (Lv1)" ,
     "maxroll_stats": [
       "Critical: 75%",
       "Swiftness: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Critical: 60%",
+      "Speciality: 20%",
+      "Swiftness: 20%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Adrenaline (Lv3)",
       "Keen Blunt Weapon (Lv3)",
       "In a Tight Spot / Master of Strinkes (Lv3)"     
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",    
+      "Cursed Doll (Lv3)",  
+      "Spirit Absoption (Lv3)"  
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/peacemaker-gunslinger-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/gunslinger-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/gunslinger-pvp-guide",
@@ -520,18 +609,25 @@
     "class" : "Gunner",
     "class engraving": "Death Strike (lv3)" ,
     "maxroll_stats": [
-      "Critical: 60%",
-      "Speciality: 20%",
-      "Swiftness: 20%"
+      "Critical: 75%",
+      "Speciality: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Critical: 75%",
+      "Speciality: 25%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "In a Tight Spot / Master of Strinkes (Lv3)", 
       "Keen Blunt Weapon (Lv3)",
       "Loyal Companion (Lv1)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Loyal Companion (Lv1)"      
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/sharpshooter-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/sharpshooter-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/sharpshooter-pvp-guide",
@@ -544,11 +640,21 @@
     "class" : "Gunner",
     "class engraving": "Loyal Companion" ,
     "maxroll_stats": [
+      
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Swiftness: 75%",
+      "Critical: 25%"
+    ],
     "maxroll_engraving": [
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Raid Captain (Lv3)",
+      "Cursed Doll (Lv3)"
+
+    ],
     "raid": "",
     "chaos": "",
     "pvp": "",
@@ -564,14 +670,23 @@
       "Swiftness: 75%",
       "Speciality: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Swiftness: 25%"
+    ],
     "maxroll_engraving": [
+      "Awakening (Lv3)",
+      "Heavy Armor (Lv3)",
+      "Spirit Absoption (Lv3)",
+      "Specialist (Lv3)",
+      "Crisis Invasion (Lv1)"
+    ],
+    "skorp_engraving": [
       "Awakening (Lv3)",
       "Specialist (Lv3)",
       "Heavy Armor (Lv3)",
-      "Crisis Invasion (Lv1)"
+      "Drop of Ether (Lv3)"      
     ],
-    "skorp_engraving": [],
     "raid": "https://lost-ark.maxroll.gg/build-guides/support-bard-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/bard-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/bard-pvp-guide",
@@ -582,13 +697,21 @@
     "advanced class": "BARD",
     "class" : "Mage",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/mage-subclasses/guides%20bard.jpg",
-    "class engraving": "True Courage" ,
+    "class engraving": "True Courage (Lv3)" ,
     "maxroll_stats": [
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Critical: 75%",
+      "Swiftness: 25%"      
+    ],
     "maxroll_engraving": [
     ],
-    "skorp_engraving": []    
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Adrenaline (Lv3)",
+      "Adrenaline (Lv3)"
+    ]    
   },
   {
     "advanced class": "SORCERESS",
@@ -599,14 +722,22 @@
       "Speciality: 75%",
       "Swiftness: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Swiftness: 25%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Fast (Lv3)",
       "Cursed Doll (Lv3)",
       "Sharp Dagger (Lv3)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Fast (Lv3)",
+      "Master of Strikes (Lv3)",      
+      "Cursed Doll (Lv3)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/heightened-senses-sorceress-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/sorceress-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/sorceress-pvp-guide",
@@ -624,14 +755,22 @@
       "Critical: 75%",
       "Swiftness: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Critical: 75%",
+      "Swiftness: 25%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Fast (Lv3)",
       "Massacre (Lv3)",
       "Sharp Dagger (Lv3)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Fast (Lv3)",
+      "Master of Strikes (Lv3)",      
+      "Cursed Doll (Lv3)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/conscious-dissonance-sorceress-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/sorceress-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/sorceress-pvp-guide",
@@ -647,14 +786,22 @@
       "Speciality: 75%",
       "Critical: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
-      "Super Charge (Lv3)",
+      "Cursed Doll (Lv3)",
       "Master of Ambush (Lv3)",
       "Adrenaline (Lv1)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Super Charge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Master of Ambush (Lv3)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/remaining-energy-deathblade-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/deathblade-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/deathblade-pvp-guide",
@@ -670,14 +817,22 @@
       "Speciality: 75%",
       "Critical: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Adrenaline (Lv3)",
       "Master of Ambush (Lv3)",
       "Panic (Lv1)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Adrenaline (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Master of Ambush (Lv3)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/burst-deathblade-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/deathblade-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/deathblade-pvp-guide",
@@ -700,7 +855,12 @@
       "Raid Captain (Lv3)",      
       "Adrenaline (Lv1)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Raid Captain (Lv3)",
+      "Spirit Absoption (Lv3)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/demonic-impulse-shadowhunter-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/shadowhunter-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/shadowhunter-pvp-guide",
@@ -716,14 +876,22 @@
       "Critical: 75%",
       "Swiftness: 25%"
     ],
-    "skorp_stats": [],
+    "skorp_stats": [
+      "Critical: 50%",
+      "Swiftness: 50%"
+    ],
     "maxroll_engraving": [
       "Grudge (Lv3)",
       "Master of Ambush (Lv3)",      
       "Keen Blunt Weapon (Lv3)",
       "Cursed Doll (Lv3)"
     ],
-    "skorp_engraving": [],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Raid Captain (Lv3)",
+      "Master of Ambush (Lv3)"
+    ],
     "raid": "https://lost-ark.maxroll.gg/build-guides/perfect-suppression-shadowhunter-raid-guide",
     "chaos": "https://lost-ark.maxroll.gg/build-guides/shadowhunter-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/shadowhunter-pvp-guide",
