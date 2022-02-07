@@ -61,19 +61,19 @@
 <div class=container>
   <div class="hero-image">
     <div class="hero-text">
-      <h1 style="font-size: 2em;">SenseiKorp Class Guide</h1>
+      <h1 style="font-size: 2em;">SenseiCorp Class Guide</h1>
     </div>
   </div>
   <div class="form-check">
     <input class="form-check-input" type="checkbox" value="" id="skorp" checked>
     <label class="form-check-label" for="skorp">
-      SenseiKorp
+      SenseiCorp
     </label>
   </div>
   <div class="form-check">
-    <input class="form-check-input" type="checkbox" value="" id="maxroll" checked>
+    <input class="form-check-input" type="checkbox" value="" id="maxroll">
     <label class="form-check-label" for="maxroll">
-      Maxroll
+      Maxroll <span style="font-style: italic;">(for information only , maybe innacurate)</span>
     </label>
   </div>
   <!--<div class="smashinglogo" id="welcomeimg" data-type="sprite" data-offsetY="100" data-Xposition="50%" data-speed="-2"> -->
@@ -83,10 +83,10 @@
             <th>Class</th>
             <th>Advanced Class</th>
             <th>Class Engraving</th>
+            <th>SenseiCorp Stats</th>
             <th>Maxroll Stats</th>
-            <th>SenseiKorp Stats</th>
+            <th>SenseiCorp Engraving</th>
             <th>Maxroll Engraving</th>
-            <th>SenseiKorp Engraving</th>
             <th>Raid</th>
             <th>Chaos</th>
             <th>Pvp</th>
@@ -156,7 +156,10 @@
               return arrayToHtmlLi(data);
             }
           } ,
-  
+          { targets: [4,6],
+              "visible": false,
+              "searchable": false
+          } ,          
           { targets: [7,8,9,10,11],
             render: function(data) {
               //console.log(data)
@@ -168,10 +171,10 @@
             { "data": "class" },
             { "data": "advanced class" },
             { "data": "class engraving" },
-            { "data": "maxroll_stats" },            
             { "data": "skorp_stats" },            
-            { "data": "maxroll_engraving"},
+            { "data": "maxroll_stats" },            
             { "data": "skorp_engraving"},            
+            { "data": "maxroll_engraving"},
             { "data": "raid"},
             { "data": "chaos"},
             { "data": "pvp"},
@@ -191,11 +194,11 @@
       var table = $('#example').DataTable();
       var idElem = event.target.id
       console.log(event.target.id)
-      if (idElem == "maxroll") {
+      if (idElem == "skorp") {
         console.log("toggle " + idElem)
         toggleCol(table, 3);
         toggleCol(table, 5);
-      } else if (idElem == "skorp") {
+      } else if (idElem == "maxroll") {
         console.log("toggle " + idElem)
         toggleCol(table, 4);
         toggleCol(table, 6);
