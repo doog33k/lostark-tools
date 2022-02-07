@@ -53,6 +53,10 @@
       margin: 20px 50px;
       display: inline-block;
     }
+
+    .recommended {
+      background: #ebbdf7 !important;
+    }
   </style>
 <div class=container>
   <div class="hero-image">
@@ -173,7 +177,12 @@
             { "data": "pvp"},
             { "data": "leveling"},
             { "data": "gameplay"}
-        ]
+        ],
+        "createdRow": function( row, data, dataIndex){
+                if( data.recommended){
+                    $(row).addClass('recommended');
+                }
+            }
     } );
     //console.log("go")
 

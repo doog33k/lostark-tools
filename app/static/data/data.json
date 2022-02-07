@@ -3,6 +3,7 @@
 [
   {
     "advanced class": "BERSERKER",
+    "recommended": "",
     "class" : "Warrior",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20berserker.jpg",
     "class engraving": "Berserker's Technique (Lv1)" ,
@@ -34,6 +35,7 @@
   },
   {
     "advanced class": "BERSERKER",
+    "recommended": "true",
     "class" : "Warrior",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20berserker.jpg",
     "class engraving": "Mayhem (Lv3)" ,
@@ -66,6 +68,7 @@
   {
     "advanced class": "GUNLANCER",
     "class" : "Warrior",
+    "recommended": "true",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20warlord.jpg",
     "class engraving": "Combat Readiness (Lv1)" ,
     "maxroll_stats": [
@@ -99,6 +102,7 @@
   {
     "advanced class": "GUNLANCER",
     "class" : "Warrior",
+    "recommended": "",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20warlord.jpg",
     "class engraving": "Solo Knight (Lv3)" ,
     "maxroll_stats": [
@@ -126,6 +130,7 @@
   },  
   {
     "advanced class": "PALADIN",
+    "recommended": "true",
     "class" : "Warrior",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20paladin.jpg",
     "class engraving": "Blessed Aura (Lv3)" ,
@@ -156,6 +161,7 @@
   },    
   {
     "advanced class": "PALADIN",
+    "recommended": "",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20paladin.jpg",
     "class" : "Warrior",
     "class engraving": "Judgment (Lv3)" ,
@@ -187,6 +193,7 @@
   },    
   {
     "advanced class": "SCRAPPER",
+    "recommended": "",
     "class" : "Martial Artist",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20scrapper.jpg",
     "class engraving": "Shock Training (Lv3)" ,
@@ -219,6 +226,7 @@
   },
   {
     "advanced class": "SCRAPPER",
+    "recommended": "true",
     "class" : "Martial Artist",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20scrapper.jpg",
     "class engraving": "Taijutsu (Lv3)" ,
@@ -250,6 +258,7 @@
   },
   {
     "advanced class": "SOULFIST",
+    "recommended": "",
     "class" : "Martial Artist",  
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20soulfist.jpg", 
     "class engraving": "Robust Spirit (Lv3)" ,
@@ -281,6 +290,7 @@
   },
   {
     "advanced class": "SOULFIST",
+    "recommended": "true",
     "class" : "Martial Artist",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20soulfist.jpg",    
     "class engraving": "Energy Overflow (Lv1)" ,
@@ -312,6 +322,7 @@
   },  
   {
     "advanced class": "WARDANCER",
+    "recommended": "",
     "class" : "Martial Artist",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20wardrancer.jpg",
     "class engraving": "First Intention (lv3)" ,
@@ -344,6 +355,7 @@
   },
   {
     "advanced class": "WARDANCER",
+    "recommended": "",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20wardrancer.jpg",
     "class" : "Martial Artist",
     "class engraving": "Esoteric Skill Enhancement (Lv1)" ,
@@ -375,6 +387,7 @@
   },
   {
     "advanced class": "STRIKER",
+    "recommended": "true",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20striker.jpg",
     "class" : "Martial Artist",
     "class engraving": "DeathBlow (lv3)" ,
@@ -406,6 +419,7 @@
   },
   {
     "advanced class": "STRIKER",
+    "recommended": "",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20striker.jpg",
     "class" : "Martial Artist",
     "class engraving": "Esoteric Flurry (Lv1)" ,
@@ -430,6 +444,7 @@
   },
   {
     "advanced class": "ARTILLERIST",
+    "recommended": "true",
     "class" : "Gunner",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20artillerist.jpg",
     "class engraving": "Firepower Enhancement (Lv3)" ,
@@ -461,6 +476,7 @@
   },
   {
     "advanced class": "ARTILLERIST",
+    "recommended": "",
     "class" : "Gunner",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20artillerist.jpg",
     "class engraving": "Barrage (Lv3)" ,
@@ -485,6 +501,7 @@
   },
   {
     "advanced class": "DEADEYE",
+    "recommended": "true",
     "class" : "Gunner",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20deadeye.jpg",
     "class engraving": "Enhanced Weapon (Lv1)" ,
@@ -516,6 +533,7 @@
   },
   {
     "advanced class": "DEADEYE",
+    "recommended": "",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20deadeye.jpg",
     "class" : "Gunner",
     "class engraving": "Pistoleer (Lv3)" ,
@@ -541,6 +559,7 @@
   },
   {
     "advanced class": "GUNSLINGER",
+    "recommended": "",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20gunslinger.jpg",
     "class" : "Gunner",
     "class engraving": "Time To Hunt (lv1)" ,
@@ -573,6 +592,7 @@
   },
   {
     "advanced class": "GUNSLINGER",
+    "recommended": "true",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20gunslinger.jpg",
     "class" : "Gunner",
     "class engraving": "Peacemaker (Lv1)" ,
@@ -605,6 +625,7 @@
   },
   {
     "advanced class": "SHARPSHOOTER",
+    "recommended": "",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20sharpshooter.jpg",
     "class" : "Gunner",
     "class engraving": "Death Strike (lv3)" ,
@@ -636,6 +657,7 @@
   },
   {
     "advanced class": "SHARPSHOOTER",
+    "recommended": "",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20sharpshooter.jpg",
     "class" : "Gunner",
     "class engraving": "Loyal Companion" ,
@@ -663,6 +685,7 @@
   },
   {
     "advanced class": "BARD",
+    "recommended": "true",
     "class" : "Mage",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/mage-subclasses/guides%20bard.jpg",
     "class engraving": "Desperate Salvation (Lv3)" ,
@@ -691,10 +714,11 @@
     "chaos": "https://lost-ark.maxroll.gg/build-guides/bard-chaos-dungeon-cube-guide",
     "pvp": "https://lost-ark.maxroll.gg/build-guides/bard-pvp-guide",
     "leveling": "https://lost-ark.maxroll.gg/build-guides/bard-leveling-guide",
-    "gameplay": "https://www.youtube.com/watch?v=MKLSirqpREw"
+    "gameplay": "https://www.youtube.com/watch?v=eVU-glC2iyw"
   },
   {
     "advanced class": "BARD",
+    "recommended": "",
     "class" : "Mage",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/mage-subclasses/guides%20bard.jpg",
     "class engraving": "True Courage (Lv3)" ,
@@ -711,10 +735,16 @@
       "Cursed Doll (Lv3)",
       "Adrenaline (Lv3)",
       "Adrenaline (Lv3)"
-    ]    
+    ] ,
+    "raid": "",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/bard-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/bard-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/bard-leveling-guide",
+    "gameplay": "https://www.youtube.com/watch?v=MKLSirqpREw&t=1s"   
   },
   {
     "advanced class": "SORCERESS",
+    "recommended": "",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/mage-subclasses/guides%20sorceress.jpg",
     "class" : "Mage",
     "class engraving": "Ignition (Lv3)" ,
@@ -748,6 +778,7 @@
   },
   {
     "advanced class": "SORCERESS",
+    "recommended": "true",
     "class" : "Mage",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/mage-subclasses/guides%20sorceress.jpg",
     "class engraving": "Reflux (Lv3)" ,
@@ -779,6 +810,7 @@
   },
   {
     "advanced class": "DEATHBLADE",
+    "recommended": "true",
     "class" : "Assassin",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/assassin-subclasses/guides%20deathblade.jpg",
     "class engraving": "Remaining Energy (Lv3)" ,
@@ -810,6 +842,7 @@
   },
   {
     "advanced class": "DEATHBLADE",
+    "recommended": "",
     "class" : "Assassin",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/assassin-subclasses/guides%20deathblade.jpg",
     "class engraving": "Burst (Lv3)" ,
@@ -841,6 +874,7 @@
   },
   {
     "advanced class": "SHADOWHUNTER",
+    "recommended": "true",
     "class" : "Assassin",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/assassin-subclasses/guides%20shadowhunter.jpg",
     "class engraving": "Demonic Inpulse (lv3)" ,
@@ -869,6 +903,7 @@
   },
   {
     "advanced class": "SHADOWHUNTER",
+    "recommended": "",
     "class" : "Assassin",
     "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/assassin-subclasses/guides%20shadowhunter.jpg",
     "class engraving": "Perfect Supression (Lv1)" ,
