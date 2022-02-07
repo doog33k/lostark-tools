@@ -3,459 +3,732 @@
 [
   {
     "advanced class": "BERSERKER",
-    "class" : "warrior",
-    "class engraving": "Berserker's Technique" ,
-    "stats": [
-      "Spec:75",
-      "Crit:25"
+    "class" : "Warrior",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20berserker.jpg",
+    "class engraving": "Berserker's Technique (Lv1)" ,
+    "maxroll_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
+    ],    
+    "maxroll_engraving": [
       "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
       "Awakening (Lv3)",
-      "Spirit Absorption (Lv3)",
-      "Raid Captain (Lv3)",
       "Cursed Doll (Lv3)"
-    ]
-
+    ],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Super Charge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)"
+    ],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/berserkers-technique-berserker-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/berserker-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/berserker-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/berserker-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=76A_sLlTXF8"            
   },
   {
     "advanced class": "BERSERKER",
-    "class" : "warrior",
-    "class engraving": "Mayhem" ,
-    "stats": [
-      "Crit:60",
-      "Swift:40"
+    "class" : "Warrior",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20berserker.jpg",
+    "class engraving": "Mayhem (Lv3)" ,
+    "maxroll_stats": [
+      "Critical: 60%",
+      "Swiftness: 40%"
     ],
-    "engraving": [
-      "Grudge (Lv3)",
-      "Master's Potential (Lv3)",
+    "skorp_stats": [
+      "Critical: 60%",
+      "Swiftness: 40%"
+    ],
+    "maxroll_engraving": [
+      "Champion Tenacity (Lv3)",
       "Cursed Doll (Lv3)",
-      "Keen Blunt Weapon (Lv3)"
-    ]     
+      "Raid Captain (Lv3)",
+      "Master of Ambush (Lv1)"
+    ],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Champion Tenacity (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Raid Captain (Lv3)"
+    ],    
+    "raid": "https://lost-ark.maxroll.gg/build-guides/mayhem-berserker-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/berserker-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/berserker-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/berserker-leveling-guide" ,    
+    "gameplay": "https://www.youtube.com/watch?v=eiKrvWGL3CM"         
   },    
-
   {
     "advanced class": "GUNLANCER",
-    "class" : "warrior",
-    "class engraving": "Combat Readiness" ,
-    "stats": [
-      "Spec:75",
-      "Crit:25"
+    "class" : "Warrior",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20warlord.jpg",
+    "class engraving": "Combat Readiness (Lv1)" ,
+    "maxroll_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
+    ],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
-      "Awakening (Lv3)",
-      "Cursed Doll (Lv3)",
+      "Barricade(Lv3)",
       "Spirit Absorption (Lv3)",
-      "Master Brawler (Lv3)",
-      "Master Brawler (Lv3)"
-    ]        
+      "Stabilized Status(Lv3)"
+      
+    ],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Barricade(Lv3)",
+      "Spirit Absorption (Lv3)",
+      "Stabilized Status(Lv3)"
+      
+    ],    
+    "raid": "https://lost-ark.maxroll.gg/build-guides/combat-readiness-gunlancer-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/gunlancer-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/gunlancer-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/gunlancer-leveling-guide" ,    
+    "gameplay": "https://www.youtube.com/watch?v=hlYm1UDbiSE"           
   },  
   {
     "advanced class": "GUNLANCER",
-    "class" : "warrior",
-    "class engraving": "Solo Knight" ,
-    "stats": [
-      "Crit:75",
-      "Swift:25"
+    "class" : "Warrior",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20warlord.jpg",
+    "class engraving": "Solo Knight (Lv3)" ,
+    "maxroll_stats": [
+      "Critical: 75%",
+      "Swiftness: 25%"
     ],
-    "engraving": [
-      "Super Charge (Lv3)",
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
+      "Super Charge (Lv3)",
       "Master Brawler (Lv3)",
-      "Spirit Absorption (Lv3)",
+      "Combat Readiness (Lv1)"
+    ],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Super Charge (Lv3)",
       "Master Brawler (Lv3)",
-      "Cursed Doll (Lv3)"
-    ]     
+      "Cursed Doll(Lv1)"      
+    ],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/solo-knight-gunlancer-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/gunlancer-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/gunlancer-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/gunlancer-leveling-guide"  ,    
+    "gameplay": "https://www.youtube.com/watch?v=Kerm_8Q7Epc"       
   },  
   {
     "advanced class": "PALADIN",
-    "class" : "warrior",
-    "class engraving": "Blessed Aura" ,
-    "stats": [
-      "Spec:75",
-      "Swift:25"
+    "class" : "Warrior",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20paladin.jpg",
+    "class engraving": "Blessed Aura (Lv3)" ,
+    "maxroll_stats": [
+      "Swiftness: 75%",
+      "Speciality: 25%" 
     ],
-    "engraving": [
-      "Spirit Absorption (Lv3)",
+    "skorp_stats": [
+      "Speciality: 75%",
+      "Swiftness: 25%"
+    ],
+    "maxroll_engraving": [
       "Awakening (Lv3)",
       "Specialist (Lv3)",
-      "Heavy Armor (Lv3)"
-    ]     
+      "Virtual Point Strikes (Lv3)",
+      "Drop of Ether (Lv1)"
+    ],
+    "skorp_engraving": [      
+      "Awakening (Lv3)",
+      "Spirit Absorption (Lv3)",
+      "Heavy Armor (Lv3)",
+      "Judgment (Lv1)"],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/support-paladin-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/paladin-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/paladin-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/paladin-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=P1jIrod9BPM"          
   },    
   {
     "advanced class": "PALADIN",
-    "class" : "warrior",
-    "class engraving": "Judgment" ,
-    "stats": [
-      "Crit:33",
-      "Spec:33",
-      "Swift:33"
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/warrior-subclasses/guides%20paladin.jpg",
+    "class" : "Warrior",
+    "class engraving": "Judgment (Lv3)" ,
+    "maxroll_stats": [
+      "Swiftness: 75%",
+      "Critical: 25%"     
     ],
-    "engraving": [
+    "skorp_stats": [
+      "Swiftness: 75%",
+      "Critical: 25%"     
+    ],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
       "Cursed Doll (Lv3)",
       "Raid Captain (Lv3)",
-      "Adrenaline (Lv3)",
-      "Awakening (Lv3)"
-    ]     
+      "Adrenaline (Lv3)"
+    ],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Raid Captain (Lv3)",
+      "Adrenaline (Lv3)"
+    ],
+    "raid": "",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/paladin-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/paladin-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/paladin-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=g-7tCyYCc2E&t=104s"          
   },    
   {
     "advanced class": "SCRAPPER",
     "class" : "Martial Artist",
-    "class engraving": "Shock Training" ,
-    "stats": [
-      "Crit:75",
-      "Spec:25"
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20scrapper.jpg",
+    "class engraving": "Shock Training (Lv3)" ,
+    "maxroll_stats": [
+      "Critical: 75%",
+      "Speciality: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [
+      "Speciality: 75%",      
+      "Critical: 25%"
+    ],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
-      "Spirit Absorption (Lv3)",
-      "Adrenaline (Lv3)",
+      "Spirit Absoption (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Master of Ambush (Lv3)",    
+      "Adrenaline (Lv1)"
+    ],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
       "Keen Blunt Weapon (Lv3)",
-      "Master of Ambush (Lv3)",
-      "Cursed Doll (Lv3)"
-    ]     
+      "Cursed Doll (Lv3)",
+      "Spirit Absoption (Lv3)"
+    ],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/shock-training-scrapper-chaos-dungeon-cube-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/shock-training-scrapper-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/scrapper-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/scrapper-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=2Vj6ZgM7J-U"     
   },
   {
     "advanced class": "SCRAPPER",
     "class" : "Martial Artist",
-    "class engraving": "Taijutsu" ,
-    "stats": [
-      "Crit:75",
-      "Spec:25"
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20scrapper.jpg",
+    "class engraving": "Taijutsu (Lv3)" ,
+    "maxroll_stats": [
+      "Critical: 75%",
+      "Speciality: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [
+      "Critical: 50%",
+      "Swiftness: 50%"
+    ],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
-      "Adrenaline (Lv3)",
       "Cursed Doll (Lv3)",
-      "Master of Ambush (Lv3)"
-
-    ]         
+      "Master of Ambush (Lv3)",    
+      "Adrenaline (Lv1)"
+    ],
+    "skorp_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",      
+      "Cursed Doll (Lv3)",
+      "Master of Ambush (Lv3)"   
+    ],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/taijutsu-scrapper-chaos-dungeon-cube-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/taijutsu-scrapper-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/scrapper-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/scrapper-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=e_EpXoa6qzM"              
   },
   {
     "advanced class": "SOULFIST",
-    "class" : "Martial Artist",    
-    "class engraving": "Robust Spirit" ,
-    "stats": [
-      "Spec:75",
-      "Crit:25"
+    "class" : "Martial Artist",  
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20soulfist.jpg", 
+    "class engraving": "Robust Spirit (Lv3)" ,
+    "maxroll_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
+      "Awakening (Lv3)",
       "Grudge (Lv3)",
       "Cursed Doll (Lv3)",
-      "Awakening (Lv3)",
-      "Keen Blunt Weapon (Lv3)"
-    ]     
+      "Adrenaline (Lv1)"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/robust-spirit-soulfist-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/soulfist-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/soulfist-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/soulfist-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=IHBN01g1MlE"     
   },
   {
     "advanced class": "SOULFIST",
     "class" : "Martial Artist",
-    "class engraving": "Energy Overflow" ,
-    "stats": [
-      "Crit:75",
-      "Swift:25"
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20soulfist.jpg",    
+    "class engraving": "Energy Overflow (Lv1)" ,
+    "maxroll_stats": [    
+      "Swiftness: 75%",
+      "Critical: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
-      "Cursed Doll (Lv3)",
-      "Awakening (Lv3)",
-      "Keen Blunt Weapon (Lv3)"
-    ]     
+      "Adrenaline (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)"    
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/energy-overflow-soulfist-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/soulfist-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/soulfist-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/soulfist-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=Xkqa9tczoW8"    
   },  
   {
     "advanced class": "WARDANCER",
     "class" : "Martial Artist",
-    "class engraving": "First Intention" ,
-    "stats": [
-      "Swift:50",
-      "Crit:50"
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20wardrancer.jpg",
+    "class engraving": "First Intention (lv3)" ,
+    "maxroll_stats": [
+      "Swiftness: 75%",
+      "Critical: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
       "Cursed Doll (Lv3)",
-      "Master of Ambush (Lv3)",
-      "Keen Blunt Weapon (Lv3)"
-    ]     
+      "Keen Blunt Weapon (Lv3)",
+      "Adrenaline (Lv1)"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/first-intention-wardancer-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/wardancer-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/wardancer-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/wardancer-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=dMnTy3Jk2RI"     
   },
   {
     "advanced class": "WARDANCER",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20wardrancer.jpg",
     "class" : "Martial Artist",
-    "class engraving": "Esoteric Skill Enhancement" ,
-    "stats": [
-      "Swift:70",
-      "Crit:30"
+    "class engraving": "Esoteric Skill Enhancement (Lv1)" ,
+    "maxroll_stats": [
+      "Swiftness: 70%",
+      "Speciality: 30%"
     ],
-    "engraving": [
-      "Grudge (Lv3)",
-      "Cursed Doll (Lv3)",
-      "Master of Ambush (Lv3)",
-      "Keen Blunt Weapon (Lv3)"
-    ]     
-  },
-  {
-    "advanced class": "STRIKER",
-    "class" : "Martial Artist",
-    "class engraving": "DeathBlow" ,
-    "stats": [
-      "Spec:75",
-      "Crit:25"
-    ],
-    "engraving": [
-      "Grudge (Lv3)",
-      "Master of Ambush (Lv3)",
-      "Spirit Absorption (Lv3)",
-      "Keen Blunt Weapon (Lv3)"
-    ]     
-  },
-  {
-    "advanced class": "STRIKER",
-    "class" : "Martial Artist",
-    "class engraving": "Esoteric Flurry" ,
-    "stats": [
-      "Crit:33",
-      "Swift:33",
-      "Swift:33"
-    ],
-    "engraving": [
-      "Grudge (Lv3)",
-      "Master of Ambush (Lv3)",
-      "Cursed Doll (Lv3)",
-      "Keen Blunt Weapon (Lv3)"
-    ]     
-  },
-  {
-    "advanced class": "ARTILLERIST",
-    "class" : "Gunner",
-    "class engraving": "Firepower Enhancement" ,
-    "stats": [
-      "Crit:75",
-      "Swift:25"
-    ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
       "Cursed Doll (Lv3)",
       "Keen Blunt Weapon (Lv3)",
-      "Awakening (Lv3)"
-    ]     
+      "Adrenaline (Lv3)"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/esoteric-skill-enhancement-wardancer-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/wardancer-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/wardancer-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/wardancer-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=bDAma9oWL_g"     
+  },
+  {
+    "advanced class": "STRIKER",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20striker.jpg",
+    "class" : "Martial Artist",
+    "class engraving": "DeathBlow (lv3)" ,
+    "maxroll_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
+    ],
+    "skorp_stats": [],
+    "maxroll_engraving": [
+      "Grudge (Lv3)",
+      "Master of Ambush (Lv3)",
+      "Cursed Doll(Lv3)",
+      "Adrenaline (Lv1)"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/death-blow-striker-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/striker-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/striker-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/striker-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=dF6l6wzevNs"     
+  },
+  {
+    "advanced class": "STRIKER",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/ma-subclasses/guides%20striker.jpg",
+    "class" : "Martial Artist",
+    "class engraving": "Esoteric Flurry (Lv1)" ,
+    "maxroll_stats": [
+      "Swiftness: 66%",
+      "Critical: 22%",
+      "Speciality: 11%"
+    ],
+    "maxroll_engraving": [
+      "Grudge (Lv3)",
+      "Adrenaline(Lv3)",
+      "Cursed Doll (Lv3)",
+      "Keen Blunt Weapon (Lv3)"
+    ],
+    "skorp_stats": [],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/esoteric-flurry-striker-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/striker-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/striker-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/striker-leveling-guide",    
+    "gameplay": ""     
   },
   {
     "advanced class": "ARTILLERIST",
     "class" : "Gunner",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20artillerist.jpg",
+    "class engraving": "Firepower Enhancement (Lv3)" ,
+    "maxroll_stats": [
+      "Critical: 75%",
+      "Swiftness: 25%"
+    ],
+    "skorp_stats": [],
+    "maxroll_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",
+      "Cursed Doll (Lv3)",
+      "Adrenaline (Lv1)"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/firepower-enhancement-artillerist-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/artillerist-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/artillerist-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/artillerist-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=oZLndof6o5k"     
+  },
+  {
+    "advanced class": "ARTILLERIST",
+    "class" : "Gunner",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20artillerist.jpg",
     "class engraving": "Barrage" ,
-    "stats": [
-      "Crit:75",
-      "Swift:25"
+    "maxroll_stats": [
     ],
-    "engraving": [
-
-    ]     
+    "skorp_stats": [],
+    "maxroll_engraving": [
+    ],
+    "skorp_engraving": [],
+    "raid": "",
+    "chaos": "",
+    "pvp": "",
+    "leveling": "",
+    "gameplay": "https://www.youtube.com/watch?v=DMxEK6l7uAg"             
   },
   {
     "advanced class": "DEADEYE",
     "class" : "Gunner",
-    "class engraving": "Enhanced Weapon" ,
-    "stats": [
-      "Crit:75",
-      "Spec:25"
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20deadeye.jpg",
+    "class engraving": "Enhanced Weapon (Lv1)" ,
+    "maxroll_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
     ],
-    "engraving": [
-      "Grudge (Lv3)",
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Master of Ambush (Lv3)",
-      "Keen Blunt Weapon (Lv3)",
-      "Spirit absorption (Lv3)"
-    ]     
+      "Grudge (Lv3)",
+      "Adrenaline (Lv3)",
+      "Cursed Doll (Lv3)"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/enhanced-weapon-deadeye-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/deadeye-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/deadeye-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/deadeye-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=KdWKmCiHIWI&t=2s"          
   },
   {
     "advanced class": "DEADEYE",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20deadeye.jpg",
     "class" : "Gunner",
     "class engraving": "Pistoleer" ,
-    "stats": [
-      "Crit:75",
-      "Spec:25"
+    "maxroll_stats": [
+
     ],
-    "engraving": [
-      "Grudge (Lv3)",
-      "Master of Ambush (Lv3)",
-      "Keen Blunt Weapon (Lv3)",
-      "Spirit absorption (Lv3)"
-    ]     
+    "skorp_stats": [],
+    "maxroll_engraving": [
+
+    ],
+    "skorp_engraving": [],
+    "raid": "",
+    "chaos": "",
+    "pvp": "",
+    "leveling": "https://www.youtube.com/watch?v=Eg0IGi-NYoY"          
   },
   {
     "advanced class": "GUNSLINGER",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20gunslinger.jpg",
     "class" : "Gunner",
-    "class engraving": "Time To Hunt" ,
-    "stats": [
-      "Crit:75",
-      "Spec:25"
+    "class engraving": "Time To Hunt (lv3)" ,
+    "maxroll_stats": [
+      "Swiftness: 75%",
+      "Speciality: 25%"
     ],
-    "engraving": [
-      "Peacemaker lv. 1",
+    "skorp_stats": [],
+    "maxroll_engraving": [
+      "Grudge (Lv3)",
+      "Keen Blunt Weapon (Lv3)",      
       "Adrenaline (Lv3)",
-      "Cursed Doll ",
-      "Keen Blunt Weapon (Lv3)"      
-    ]     
+      "Peacemaker lv. 1"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/time-to-hunt-gunslinger-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/gunslinger-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/gunslinger-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/gunslinger-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=IeK8HG-VX-Y"          
   },
   {
     "advanced class": "GUNSLINGER",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20gunslinger.jpg",
     "class" : "Gunner",
     "class engraving": "Peacemaker (lv.1)" ,
-    "stats": [
-      "Crit:75",
-      "Spec:25"
+    "maxroll_stats": [
+      "Critical: 75%",
+      "Swiftness: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
       "Adrenaline (Lv3)",
       "Keen Blunt Weapon (Lv3)",
-      "Master of Strinkes (In a Tight Spot)"
-    ]     
-  },
-  {
-    "advanced class": "SHARPSHOOTER",
-    "class" : "Gunner",
-    "class engraving": "Death Strike" ,
-    "stats": [
-      "Crit:75",
-      "Spec:25"
+      "In a Tight Spot / Master of Strinkes (Lv3)"     
     ],
-    "engraving": [
-      "Grudge (Lv3)",
-      "Awakening (Lv3)",
-      "Keen Blunt Weapon (Lv3)",
-      "Cursed Doll (Lv3)"
-    ]     
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/peacemaker-gunslinger-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/gunslinger-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/gunslinger-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/gunslinger-leveling-guide" ,    
+    "gameplay": "https://www.youtube.com/watch?v=RUfoDYIQS2Q"         
   },
   {
     "advanced class": "SHARPSHOOTER",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20sharpshooter.jpg",
+    "class" : "Gunner",
+    "class engraving": "Death Strike (lv3)" ,
+    "maxroll_stats": [
+      "Critical: 60%",
+      "Speciality: 20%",
+      "Swiftness: 20%"
+    ],
+    "skorp_stats": [],
+    "maxroll_engraving": [
+      "Grudge (Lv3)",
+      "In a Tight Spot / Master of Strinkes (Lv3)", 
+      "Keen Blunt Weapon (Lv3)",
+      "Loyal Companion (Lv1)"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/sharpshooter-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/sharpshooter-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/sharpshooter-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/sharpshooter-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=mtgdDm-wTe0"          
+  },
+  {
+    "advanced class": "SHARPSHOOTER",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/gunner-subclasses/guides%20sharpshooter.jpg",
     "class" : "Gunner",
     "class engraving": "Loyal Companion" ,
-    "stats": [
-      "Crit:75",
-      "Swift:25"
+    "maxroll_stats": [
     ],
-    "engraving": [
-      "Grudge (Lv3)",
-      "Raid Captain (Lv3)",
-      "Keen Blunt Weapon (Lv3)",
-      "Cursed Doll (Lv3)"      
-    ]     
+    "skorp_stats": [],
+    "maxroll_engraving": [
+    ],
+    "skorp_engraving": [],
+    "raid": "",
+    "chaos": "",
+    "pvp": "",
+    "leveling": "",         
+    "gameplay": " https://www.youtube.com/watch?v=Zd5KbK60iIQ"    
   },
   {
     "advanced class": "BARD",
     "class" : "Mage",
-    "class engraving": "Desperate Salvation" ,
-    "stats": [
-      "Spec:75",
-      "Swift:25"
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/mage-subclasses/guides%20bard.jpg",
+    "class engraving": "Desperate Salvation (Lv3)" ,
+    "maxroll_stats": [
+      "Swiftness: 75%",
+      "Speciality: 25%"
     ],
-    "engraving": [
-      "Spirit Absorption (Lv3)",
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Awakening (Lv3)",
-      "Heavy Armor (Lv3)"
-    ]     
+      "Specialist (Lv3)",
+      "Heavy Armor (Lv3)",
+      "Crisis Invasion (Lv1)"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/support-bard-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/bard-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/bard-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/bard-leveling-guide",
+    "gameplay": "https://www.youtube.com/watch?v=MKLSirqpREw"
   },
   {
     "advanced class": "BARD",
     "class" : "Mage",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/mage-subclasses/guides%20bard.jpg",
     "class engraving": "True Courage" ,
-    "stats": [
-      "Crit:75",
-      "Swift:25"
+    "maxroll_stats": [
     ],
-    "engraving": [
-
-    ]     
+    "skorp_stats": [],
+    "maxroll_engraving": [
+    ],
+    "skorp_engraving": []    
   },
   {
     "advanced class": "SORCERESS",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/mage-subclasses/guides%20sorceress.jpg",
     "class" : "Mage",
-    "class engraving": "Ignition" ,
-    "stats": [
-      "Spec:75",
-      "Crit:25"
+    "class engraving": "Ignition (Lv3)" ,
+    "maxroll_stats": [
+      "Speciality: 75%",
+      "Swiftness: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
       "Fast (Lv3)",
       "Cursed Doll (Lv3)",
       "Sharp Dagger (Lv3)"
-    ]     
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/heightened-senses-sorceress-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/sorceress-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/sorceress-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/sorceress-leveling-guide",    
+    "gameplay": "https://www.youtube.com/watch?v=eSAC3jz0-SI"
+ 
+
   },
   {
     "advanced class": "SORCERESS",
     "class" : "Mage",
-    "class engraving": "Reflux" ,
-    "stats": [
-      "Swift:75",
-      "Crit:25"
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/mage-subclasses/guides%20sorceress.jpg",
+    "class engraving": "Reflux (Lv3)" ,
+    "maxroll_stats": [
+      "Critical: 75%",
+      "Swiftness: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
       "Fast (Lv3)",
       "Massacre (Lv3)",
       "Sharp Dagger (Lv3)"
-    ]     
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/conscious-dissonance-sorceress-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/sorceress-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/sorceress-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/sorceress-leveling-guide" ,    
+    "gameplay": "https://www.youtube.com/watch?v=mZgZ-2CLrG0"         
   },
   {
     "advanced class": "DEATHBLADE",
     "class" : "Assassin",
-    "class engraving": "Remaining Energy" ,
-    "stats": [
-      "Spec:75",
-      "Crit:25"
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/assassin-subclasses/guides%20deathblade.jpg",
+    "class engraving": "Remaining Energy (Lv3)" ,
+    "maxroll_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
       "Super Charge (Lv3)",
       "Master of Ambush (Lv3)",
-      "Adrenaline (Lv3)"
-    ]     
+      "Adrenaline (Lv1)"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/remaining-energy-deathblade-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/deathblade-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/deathblade-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/deathblade-leveling-guide",    
+    "gameplay": ""          
   },
   {
     "advanced class": "DEATHBLADE",
     "class" : "Assassin",
-    "class engraving": "Burst" ,
-    "stats": [
-      "Spec:75",
-      "Crit:25"
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/assassin-subclasses/guides%20deathblade.jpg",
+    "class engraving": "Burst (Lv3)" ,
+    "maxroll_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
       "Adrenaline (Lv3)",
       "Master of Ambush (Lv3)",
       "Panic (Lv1)"
-    ]     
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/burst-deathblade-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/deathblade-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/deathblade-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/deathblade-leveling-guide",    
+    "gameplay": ""          
   },
   {
     "advanced class": "SHADOWHUNTER",
     "class" : "Assassin",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/assassin-subclasses/guides%20shadowhunter.jpg",
     "class engraving": "Demonic Inpulse (lv3)" ,
-    "stats": [
-      "Spec:75",
-      "Crit:25"
+    "maxroll_stats": [
+      "Speciality: 75%",
+      "Critical: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
       "Spirit Absoption (Lv3)",
       "Raid Captain (Lv3)",      
       "Adrenaline (Lv1)"
-    ]     
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/demonic-impulse-shadowhunter-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/shadowhunter-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/shadowhunter-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/shadowhunter-leveling-guide",    
+    "gameplay": ""     
   },
   {
     "advanced class": "SHADOWHUNTER",
     "class" : "Assassin",
+    "a_class_img": "https://assets.maxroll.gg/wp-content/assets/css/icons/raid-guides/mobile/assassin-subclasses/guides%20shadowhunter.jpg",
     "class engraving": "Perfect Supression (Lv1)" ,
-    "stats": [
-      "Crit:75",
-      "Swift:25"
+    "maxroll_stats": [
+      "Critical: 75%",
+      "Swiftness: 25%"
     ],
-    "engraving": [
+    "skorp_stats": [],
+    "maxroll_engraving": [
       "Grudge (Lv3)",
-      "Cursed Doll (Lv3)",
+      "Master of Ambush (Lv3)",      
       "Keen Blunt Weapon (Lv3)",
-      "Master of Ambush (Lv3)"      
-    ]     
+      "Cursed Doll (Lv3)"
+    ],
+    "skorp_engraving": [],
+    "raid": "https://lost-ark.maxroll.gg/build-guides/perfect-suppression-shadowhunter-raid-guide",
+    "chaos": "https://lost-ark.maxroll.gg/build-guides/shadowhunter-chaos-dungeon-cube-guide",
+    "pvp": "https://lost-ark.maxroll.gg/build-guides/shadowhunter-pvp-guide",
+    "leveling": "https://lost-ark.maxroll.gg/build-guides/shadowhunter-leveling-guide" ,    
+    "gameplay": ""    
   }
   ]
 }
